@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/contrib/libhv/http/server",
+                "${workspaceFolder}/contrib/libhv",
+                "${workspaceFolder}/contrib/libhv/ssl",
+                "${workspaceFolder}/contrib/libhv/base",
+                "${workspaceFolder}/contrib/libhv/http",
+                "${workspaceFolder}/contrib/libhv/cpputil",
+                "${workspaceFolder}/contrib/libhv/evpp",
+                "${workspaceFolder}/contrib/libhv/event",
+                "${workspaceFolder}/src/Utility"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-16",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
